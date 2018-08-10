@@ -38,10 +38,6 @@
   margin-left: 0;
 }
 
-* {
-  box-sizing: border-box;
-}
-
 .wrapper {
   margin-bottom: 5px;
 }
