@@ -42,4 +42,8 @@
   box-sizing: border-box;
 }
 
+.wrapper {
+  margin-bottom: 5px;
+}
+
 /* Posititoning Classes */
